@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xooxaukait.mnteq.com/sitemap.xml
